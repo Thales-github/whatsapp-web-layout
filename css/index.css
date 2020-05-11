@@ -1,0 +1,42 @@
+/* configurações do painel  */
+.painel{
+    background-color: #eeeeee;
+}
+.painel>.menuEsquerdo{
+    border: 1px solid #dbdbdb;
+}
+.painel>.menuDireito{
+    border: 1px solid #dbdbdb;
+}
+img{
+    width: 70px;
+    height: 70px;
+    padding: 5px;
+}
+.container-fluid>.painel>.menuDireito>img{
+    width: 70px;
+    height: 70px;
+    padding: 5px;
+}
+/*-------------------------------------------*/
+.conversas{
+    padding: 0;
+    background-color: white;
+}
+.conversas>.linha1{
+    background-color: #f8f8f8;
+    min-height: 70px;
+}
+.conversas>.hcode{
+    background-color: #ffffff;
+}
+.conversas>.hcode>h5{
+    margin-right: 240px;
+}
+.linha2>.d-flex>h5{
+    margin-right: 150px;
+}
+.mensagem{
+    background-color: #e5ddd5;
+    min-height: 800px;
+}
